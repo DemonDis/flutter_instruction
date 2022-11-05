@@ -21,5 +21,41 @@ https://docs.flutter.dev/development/tools/sdk/releases
  3.4 Добавить в строчку C:\src\flutter\bin и нажать ОК и еще раз ОК
 
 4. Вести в компандную строку flutter doctor
+ 
+ Смотрим что еще необходимо доставить для рабты flutter
 
-5. 
+5. В нашем случае мы не хотим отправлять никакую аналитику. Отключаем! Используем терминал.
+
+OFF - Аналитика инструмента Flutter
+ flutter config --no-analytics
+
+ OFF - Аналитика инструмента Dart
+ dart config --no-analytics
+
+ 6. Установить Visual Studio 2022 (Community)
+ https://visualstudio.microsoft.com/ru/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false
+
+Нам понадобятся следующие пакеты
+
+Для установки в автономном режиме 
+https://learn.microsoft.com/en-us/visualstudio/install/create-an-offline-installation-of-visual-studio?view=vs-2022
+
+
+
+
+Плагины для VS code
+https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code
+
+
+https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter
+
+
+
+
+
+Что необходимо скачать и инсталировать
+ 1. flutter_windows_3.3.7-stable
+ 2. Visual Studio 2022 или Visual Studio Build Tools 2022 
+ 3. Java 8 
+
+ Создание проект flutter create testapp --offline
