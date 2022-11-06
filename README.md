@@ -7,7 +7,7 @@
 
 0. [Программный минимум](#Программный-минимум)
 
-## Программный-минимум
+## Программный минимум
 
 1. <a href="https://developer.tizen.org/development/tizen-studio/download/installing-tizen-studio/hardware-accelerated-execution-manager" target="_blank">HAXM</a>
 2. <a href="https://www.oracle.com/java/technologies/downloads/" target="_blank">JDK</a>
@@ -15,7 +15,7 @@
 4. <a href="https://visualstudio.microsoft.com/ru/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false" target="_blank">Visual Studio</a>
 5. <a href="https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code" target="_blank">Dart для Visual Studio Code</a>
 6. <a href="https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter" target="_blank">Flutter для Visual Studio Code</a>
-
+7. <a href="https://developer.android.com/studio" target="_blank">SDK tools package (sdkmanager android)</a>
 ____
 
 
@@ -91,11 +91,5 @@ https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code
 https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter
 
 
-
-
-Что необходимо скачать и инсталировать
- 1. flutter_windows_3.3.7-stable
- 2. Visual Studio 2022 или Visual Studio Build Tools 2022 
- 3. Java 8 
 
  Создание проект flutter create testapp --offline
