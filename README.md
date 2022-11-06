@@ -1,6 +1,23 @@
 
-<h1 align="center">Hi, I'm Di</h1>
-<h3 align="center">Flutter mobile (Android)</h3>
+<div align="center"><img src="./images/InnoLab.png" height="150"/></div>
+<h1 align="center">Instruction<img src="./images/flutter.png" height="28"/></h1>
+<h3 align="center"><img src="./images/Android.png" height="55"/></h3>
+
+## Оглавление
+
+0. [Программный минимум](#Программный-минимум)
+
+## Программный-минимум
+
+1. <a href="https://developer.tizen.org/development/tizen-studio/download/installing-tizen-studio/hardware-accelerated-execution-manager" target="_blank">HAXM</a>
+2. <a href="https://www.oracle.com/java/technologies/downloads/" target="_blank">JDK</a>
+3. <a href="https://docs.flutter.dev/development/tools/sdk/releases" target="_blank">Flutter SDK </a>
+4. <a href="https://visualstudio.microsoft.com/ru/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false" target="_blank">Visual Studio</a>
+5. <a href="https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code" target="_blank">Dart для Visual Studio Code</a>
+6. <a href="https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter" target="_blank">Flutter для Visual Studio Code</a>
+
+____
+
 
 1. Скачать Flutter SDK 
 
@@ -72,7 +89,6 @@ https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code
 
 
 https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter
-
 
 
 
