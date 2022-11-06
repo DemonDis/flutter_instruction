@@ -40,6 +40,30 @@ OFF - Аналитика инструмента Flutter
 Для установки в автономном режиме 
 https://learn.microsoft.com/en-us/visualstudio/install/create-an-offline-installation-of-visual-studio?view=vs-2022
 
+6.1 Переходим по ссылке и качаем Visual Studio 2022 Корпоративная vs_enterprise.exe
+https://learn.microsoft.com/en-us/visualstudio/install/create-a-network-installation-of-visual-studio?view=vs-2022
+
+
+Для утсновки offline переходим по ссылке
+https://learn.microsoft.com/ru-ru/visualstudio/install/create-an-offline-installation-of-visual-studio?view=vs-2022
+
+Скачиваем Visual Studio 2022 Build Tools vs_buildtools.exe
+Далее переходим в терминал и запускаем exe
+
+Для скачивания всего \
+vs_enterprise.exe --layout c:\localVSlayout --lang ru-RU
+
+Для разработки классических приложений C++ выполните следующую команду
+vs_enterprise.exe --layout c:\localVSlayout --add Microsoft.VisualStudio.Workload.NativeDesktop --includeRecommended --lang en-US
+
+Чтобы установщик не попытался подключиться к Интернету, используйте параметр --noweb.
+
+Далее запускаем локульную установку
+vs_enterprise.exe --layout c:\localVSlayout --add Microsoft.VisualStudio.Workload.ManagedDesktop --add Microsoft.VisualStudio.Workload.NetWeb --includeOptional --lang en-US
+
+
+Windows SDK
+https://developer.microsoft.com/en-us/windows/downloads/windows-sdk/
 
 
 
