@@ -8,6 +8,7 @@
 0. [Программный минимум](#Программный-минимум)
 1. [Установка Flutter](#Установка-Flutter)
     1. [Flutter SDK](#Flutter-SDK)
+    2. [Установка Flutter SDK](#Установка-Flutter-SDK)
 
 
 ## Программный минимум
@@ -25,9 +26,9 @@ ____
 
 #### Flutter SDK
 
-```
 Скачиваем актуальный архив <a href="https://docs.flutter.dev/development/tools/sdk/releases">Stable channel (Windows)</a> 
-```
+
+#### Установка Flutter SDK
 
 2. Распоковать файл flutter_windows_3.3.7-stable в например C:\src\flutter
 
