@@ -19,6 +19,9 @@
 5. [Установка Visual Studio](#Установка-Visual-Studio)
 6. [Установка плагинов Visual Studio Code](#Установка-плагинов-Visual-Studio-Code)
 7. [Установка Android](#Установка-Android)
+8. [Hellow world Flutter](#Hellow-world-Flutter)
+    1. [Создание-проекта](#Cоздание-проекта)
+    2. [Запуск эмулятора Android](#Запуск-эмулятора-Android)
 
 ## Программный минимум
 
@@ -92,6 +95,16 @@ ____
 
 1. Палагин <a href="https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code" target="_blank">DART</a>
 2. Палагин <a href="https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code" target="_blank">FLUTTER</a>
+____
+## Hellow world Flutter
+
+### Создание проекта
+
+
+____
+### Запуск эмулятора Android
+
+
 ____
 
 
