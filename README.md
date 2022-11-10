@@ -15,18 +15,21 @@
     3. [Проверка работы flutter](#Проверка-работы-flutter)
 2. [Установка Java](#Установка-Java)
 3. [Установка HAXM](#Установка-HAXM)
-4. [Установка Visual Studio](#Установка-Visual-Studio)
-5. [Установка плагинов Visual Studio Code](#Установка-плагинов-Visual-Studio-Code)
+4. [Установка Windows SDK](#Установка-Windows-SDK)
+5. [Установка Visual Studio](#Установка-Visual-Studio)
+6. [Установка плагинов Visual Studio Code](#Установка-плагинов-Visual-Studio-Code)
+7. [Установка Android](#Установка-Android)
 
 ## Программный минимум
 
 1. <a href="https://developer.tizen.org/development/tizen-studio/download/installing-tizen-studio/hardware-accelerated-execution-manager" target="_blank">HAXM</a>
 2. <a href="https://www.oracle.com/java/technologies/downloads/" target="_blank">JDK</a>
-3. <a href="https://docs.flutter.dev/development/tools/sdk/releases" target="_blank">Flutter SDK </a>
-4. <a href="https://visualstudio.microsoft.com/ru/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false" target="_blank">Visual Studio</a>
-5. <a href="https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code" target="_blank">Dart для Visual Studio Code</a>
-6. <a href="https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter" target="_blank">Flutter для Visual Studio Code</a>
-7. <a href="https://developer.android.com/studio" target="_blank">SDK tools package (sdkmanager android)</a>
+3. <a href="https://www.oracle.com/java/technologies/downloads/" target="_blank">Windows SDK</a>
+4. <a href="https://docs.flutter.dev/development/tools/sdk/releases" target="_blank">Flutter SDK </a>
+5. <a href="https://visualstudio.microsoft.com/ru/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false" target="_blank">Visual Studio</a>
+6. <a href="https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code" target="_blank">Dart для Visual Studio Code</a>
+7. <a href="https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter" target="_blank">Flutter для Visual Studio Code</a>
+8. <a href="https://developer.android.com/studio" target="_blank">SDK tools package (sdkmanager android)</a>
 ____
 
 ## Установка Flutter
@@ -77,11 +80,15 @@ ____
 
 
 ____
+## Установка Windows SDK
+
+
+____
 ## Установка Visual Studio
 
 
 ____
-## Установка плагинов Visual Studio 
+## Установка плагинов Visual Studio Code
 
 1. Палагин <a href="https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code" target="_blank">DART</a>
 2. Палагин <a href="https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code" target="_blank">FLUTTER</a>
@@ -119,7 +126,7 @@ vs_enterprise.exe --layout c:\localVSlayout --add Microsoft.VisualStudio.Workloa
 
 
 Windows SDK
-https://developer.microsoft.com/en-us/windows/downloads/windows-sdk/
+
 
 
 
