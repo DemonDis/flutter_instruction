@@ -13,6 +13,8 @@
         1. [Переменные среды Windows](#Переменные-среды-Windows)
         2. [Отключаем аналитику](#Отключаем-аналитику)
     3. [Проверка работы flutter](#Проверка-работы-flutter)
+2. [Установка Visual Studio](#Установка-Visual-Studio)
+3. [Установка плагинов Visual Studio Code](#Установка-плагинов-Visual-Studio-Code)
 
 ## Программный минимум
 
@@ -66,6 +68,16 @@ ____
  2. После того как команда отработает появится список программ или ошибок (может и не появиться, если все ноебходимое уставноленно и исправно).
 ____
 
+## Установка Visual Studio
+
+#### 
+____
+## Установка плагинов Visual Studio 
+
+1. Палагин <a href="https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code" target="_blank">DART</a>
+2. Палагин <a href="https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code" target="_blank">FLUTTER</a>
+____
+
 
  6. Установить Visual Studio 2022 (Community)
  https://visualstudio.microsoft.com/ru/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false
@@ -99,14 +111,6 @@ vs_enterprise.exe --layout c:\localVSlayout --add Microsoft.VisualStudio.Workloa
 
 Windows SDK
 https://developer.microsoft.com/en-us/windows/downloads/windows-sdk/
-
-
-
-Плагины для VS code
-https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code
-
-
-https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter
 
 
 
