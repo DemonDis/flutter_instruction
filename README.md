@@ -1,7 +1,7 @@
 
 <div align="center"><img src="./images/InnoLab.png" height="150"/></div>
 <h1 align="center">Instruction<img src="./images/flutter.png" height="28"/></h1>
-<h3 align="center"><img src="./images/Android.png" height="55"/></h3>
+<h3 align="center"><img src="./images/Android.png" height="55"/><img src="https://seeklogo.com/images/W/windows-11-icon-logo-6C39629E45-seeklogo.com.png" height="55"/></h3>
 
 ## Оглавление
 
