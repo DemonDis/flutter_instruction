@@ -124,10 +124,4 @@ vs_enterprise.exe --layout c:\localVSlayout --add Microsoft.VisualStudio.Workloa
 Далее запускаем локульную установку
 vs_enterprise.exe --layout c:\localVSlayout --add Microsoft.VisualStudio.Workload.ManagedDesktop --add Microsoft.VisualStudio.Workload.NetWeb --includeOptional --lang en-US
 
-
-Windows SDK
-
-
-
-
  Создание проект flutter create testapp --offline
