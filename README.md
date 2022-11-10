@@ -3,9 +3,12 @@
 <h1 align="center">Instruction<img src="./images/flutter.png" height="28"/></h1>
 <h3 align="center"><img src="./images/Android.png" height="55"/><img src="https://seeklogo.com/images/W/windows-11-icon-logo-6C39629E45-seeklogo.com.png" height="55"/></h3>
 
-## Оглавление
+## Оглавление 05.11.2022
 
 0. [Программный минимум](#Программный-минимум)
+1. [Установка Flutter](#Установка-Flutter)
+    1. [Flutter SDK](#Flutter-SDK)
+
 
 ## Программный минимум
 
@@ -18,16 +21,13 @@
 7. <a href="https://developer.android.com/studio" target="_blank">SDK tools package (sdkmanager android)</a>
 ____
 
+## Установка Flutter
 
-1. Скачать Flutter SDK 
+#### Flutter SDK
 
-Я скачаю на Flutter version 3.3.7 на 05.11.2022
-https://storage.googleapis.com/flutter_infra_release/releases/stable/windows/flutter_windows_3.3.7-stable.zip
-
-
-Актуальную стабильную версию можно скачать
-https://docs.flutter.dev/development/tools/sdk/releases
-
+```
+Скачиваем актуальный архив <a href="https://docs.flutter.dev/development/tools/sdk/releases">Stable channel (Windows)</a> 
+```
 
 2. Распоковать файл flutter_windows_3.3.7-stable в например C:\src\flutter
 
