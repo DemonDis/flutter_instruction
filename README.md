@@ -117,7 +117,7 @@ ____
 ## Установка плагинов Visual Studio Code
 
 1. Палагин <a href="https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code" target="_blank">DART</a>
-2. Палагин <a href="ttps://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter" target="_blank">FLUTTER</a>
+2. Палагин <a href="https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter" target="_blank">FLUTTER</a>
 ____
 ## Локальный Gradle Build Tool
 
