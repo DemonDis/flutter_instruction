@@ -22,7 +22,8 @@
 7. [Локальный Gradle Build Tool](#Локальный-Gradle-Build-Tool)
     1. [Переменные среды Windows GRADLE](#Переменные-среды-Windows-GRADLE)
 9. [Установка Android](#Установка-Android)
-10. [Hello world Flutter](#Hello-world-Flutter)
+10. [Проверка установленных программ](#Проверка-установленных-программ)
+11. [Hello world Flutter](#Hello-world-Flutter)
     1. [Создание-проекта](#Cоздание-проекта)
     2. [Запуск эмулятора Android](#Запуск-эмулятора-Android)
 
@@ -137,6 +138,17 @@ ____
 
 1. Скачиваем <a href="https://developer.android.com/studio" target="_blank">SDK tools package</a>
 2. Распоковать файл commandlinetools-win-8512546_latest.zip (версия на 05.11.2022) в C:\Android-SDK
+____
+## Проверка установленных программ
+
+1. Flutter
+ ```
+ flutter doctor
+ ```
+ 2. Gradle
+ ```
+ gradle -v
+ ```
 ____
 ## Hello world Flutter
 
