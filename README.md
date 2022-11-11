@@ -106,8 +106,17 @@ ____
 
 :boom: Данный путь без уставноки Visual Studio. Только необходимые пакеты. 
 1. Скачавыем <a href="https://learn.microsoft.com/en-us/visualstudio/install/create-an-offline-installation-of-visual-studio?view=vs-2022" target="_blank">Visual Studio 2022 Build Tools</a>
+2. Запускаем программу vs_buildtools.exe с помощью терминала
+ ```
+ vs_enterprise.exe --layout c:\localVSlayout --add Microsoft.VisualStudio.Workload.NativeDesktop --includeRecommended --lang ru-RU
+ ```
 ____
 ## Установка плагинов Visual Studio Code
+
+1. Палагин <a href="https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code" target="_blank">DART</a>
+2. Палагин <a href="https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code" target="_blank">FLUTTER</a>
+____
+## Установка Android
 
 1. Палагин <a href="https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code" target="_blank">DART</a>
 2. Палагин <a href="https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code" target="_blank">FLUTTER</a>
