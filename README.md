@@ -57,7 +57,7 @@ ____
  ```
  2. На вкладке «Дополнительно» нажмите кнопку «Переменные среды…».
  3. Переменные среды пользователя для (имя пользователя) выбрать Path и нажать изменить.
- 4. Добавить в строчку C:\src\flutter\bin (или тот маршрут куда вы положили Flutter SDK) и нажать ОК и еще раз ОК
+ 4. Добавить в строчку C:\src\flutter\bin (или тот маршрут куда вы положили Flutter SDK) и нажать ОК и еще раз ОК.
 ____
 #### Отключаем аналитику
 
@@ -92,7 +92,7 @@ ____
  ```
  2. На вкладке «Дополнительно» нажмите кнопку «Переменные среды…».
  3. Переменные среды пользователя для (имя пользователя) выбрать Path и нажать изменить.
- 4. Добавить в строчку C:\Java\jdk-15.0.2\bin (или тот маршрут куда вы положили jdk) и нажать ОК и еще раз ОК
+ 4. Добавить в строчку C:\Java\jdk-15.0.2\bin (или тот маршрут куда вы положили jdk) и нажать ОК и еще раз ОК.
 ____
 ## Установка HAXM
 
@@ -109,7 +109,7 @@ ____
 
 :boom: Данный путь без уставноки Visual Studio. Только необходимые пакеты. 
 1. Скачавыем <a href="https://learn.microsoft.com/en-us/visualstudio/install/create-an-offline-installation-of-visual-studio?view=vs-2022" target="_blank">Visual Studio 2022 Build Tools</a>
-2. Запускаем программу vs_buildtools.exe с помощью терминала
+2. Запускаем программу vs_buildtools.exe с помощью терминала.
  ```
  vs_enterprise.exe --layout c:\localVSlayout --add Microsoft.VisualStudio.Workload.NativeDesktop --includeRecommended --lang ru-RU
  ```
@@ -122,7 +122,7 @@ ____
 ## Локальный Gradle Build Tool
 
 1. Скачиваем <a href="https://services.gradle.org/distributions/" target="_blank">Gradle Build Tool</a> (скролим вниз до таблицы)
-2. Распоковать файл gradle-7.6-rc-2-all.zip (версия на 05.11.2022) в C:\gradle
+2. Распоковать файл gradle-7.6-rc-2-all.zip (версия на 05.11.2022) в C:\gradle.
 ____
 #### Переменные среды Windows GRADLE
 
@@ -132,12 +132,16 @@ ____
  ```
  2. На вкладке «Дополнительно» нажмите кнопку «Переменные среды…».
  3. Переменные среды пользователя для (имя пользователя) выбрать Path и нажать изменить.
- 4. Добавить в строчку C:\gradle\gradle-7.6-rc-2-all\bin (или тот маршрут куда вы положили gradle) и нажать ОК и еще раз ОК
+ 4. Добавить в строчку C:\gradle\gradle-7.6-rc-2-all\bin (или тот маршрут куда вы положили gradle) и нажать ОК и еще раз ОК.
 ____
 ## Установка Android
 
 1. Скачиваем <a href="https://developer.android.com/studio" target="_blank">SDK tools package</a>
 2. Распоковать файл commandlinetools-win-8512546_latest.zip (версия на 05.11.2022) в C:\Android-SDK
+3. Запускаем программу sdkmanager с помощью терминала из папки C:\Android-SDK\cmdline-tools\bin\
+ ```
+ sdkmanager --sdk_root=sdkRootPath "platforms;android-29" "build-tools;29.0.3" "extras;google;m2repository" "extras;android;m2repository"
+ ```
 ____
 ## Проверка установленных программ
 
