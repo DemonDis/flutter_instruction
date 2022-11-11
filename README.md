@@ -46,7 +46,7 @@ ____
 ____
 ### Установка Flutter SDK
 
- 1. Распоковать файл flutter_windows_3.3.7-stable (версия flutter на 05.11.2022) в C:\src\flutter
+ 1. Распоковать файл flutter_windows_3.3.7-stable (версия на 05.11.2022) в C:\src\flutter
 ____
 #### Переменные среды Windows FLUTTER
 
@@ -81,7 +81,7 @@ ____
 ## Установка Java
 
 1. Скачиваем <a href="https://www.oracle.com/java/technologies/downloads/" target="_blank">Java SE Development</a>
-2. Распоковать файл jdk-19_windows-x64_bin.zip (версия flutter на 05.11.2022) в C:\Java\jdk-15.0.2
+2. Распоковать файл jdk-19_windows-x64_bin.zip (версия на 05.11.2022) в C:\Java\jdk-15.0.2
 ____
 #### Переменные среды Windows JAVA
 
@@ -121,7 +121,7 @@ ____
 ## Локальный Gradle Build Tool
 
 1. Скачиваем <a href="https://services.gradle.org/distributions/" target="_blank">Gradle Build Tool</a> (скролим вниз до таблицы)
-2. Распоковать файл gradle-7.6-rc-2-all.zip (версия flutter на 05.11.2022) в C:\gradle
+2. Распоковать файл gradle-7.6-rc-2-all.zip (версия на 05.11.2022) в C:\gradle
 ____
 #### Переменные среды Windows GRADLE
 
@@ -136,7 +136,7 @@ ____
 ## Установка Android
 
 1. Скачиваем <a href="https://developer.android.com/studio" target="_blank">SDK tools package</a>
-2. Распоковать файл commandlinetools-win-8512546_latest.zip (версия flutter на 05.11.2022) в C:\Android-SDK
+2. Распоковать файл commandlinetools-win-8512546_latest.zip (версия на 05.11.2022) в C:\Android-SDK
 ____
 ## Hello world Flutter
 
