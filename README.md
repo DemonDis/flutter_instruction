@@ -117,7 +117,7 @@ ____
 ## Установка плагинов Visual Studio Code
 
 1. Палагин <a href="https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code" target="_blank">DART</a>
-2. Палагин <a href="https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code" target="_blank">FLUTTER</a>
+2. Палагин <a href="ttps://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter" target="_blank">FLUTTER</a>
 ____
 ## Локальный Gradle Build Tool
 
@@ -138,7 +138,9 @@ ____
 
 1. Скачиваем <a href="https://developer.android.com/studio" target="_blank">SDK tools package</a>
 2. Распоковать файл commandlinetools-win-8512546_latest.zip (версия на 05.11.2022) в C:\Android-SDK
-3. Запускаем программу sdkmanager с помощью терминала из папки C:\Android-SDK\cmdline-tools\bin\
+3. Переходим <a href="https://developer.android.com/studio/releases" target="_blank">releases notes</a>и выбираем необходимые версии программ. Я возьму последние на 05.11.2022.
+4. 
+5. Запускаем программу sdkmanager с помощью терминала из папки C:\Android-SDK\cmdline-tools\bin\
  ```
  sdkmanager --sdk_root=sdkRootPath "platforms;android-29" "build-tools;29.0.3" "extras;google;m2repository" "extras;android;m2repository"
  ```
