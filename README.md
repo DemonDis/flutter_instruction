@@ -19,8 +19,9 @@
 4. [Установка Windows SDK](#Установка-Windows-SDK)
 5. [Установка пакетов Visual Studio](#Установка-пакетов-Visual-Studio)
 6. [Установка плагинов Visual Studio Code](#Установка-плагинов-Visual-Studio-Code)
-7. [Установка Android](#Установка-Android)
-8. [Hello world Flutter](#Hello-world-Flutter)
+7. [Локальный Gradle Build Tool](#Локальный-Gradle-Build-Tool)
+8. [Установка Android](#Установка-Android)
+9. [Hello world Flutter](#Hello-world-Flutter)
     1. [Создание-проекта](#Cоздание-проекта)
     2. [Запуск эмулятора Android](#Запуск-эмулятора-Android)
 
@@ -115,6 +116,11 @@ ____
 
 1. Палагин <a href="https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code" target="_blank">DART</a>
 2. Палагин <a href="https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code" target="_blank">FLUTTER</a>
+____
+## Локальный Gradle Build Tool
+
+1. Скачиваем <a href="https://developer.android.com/studio" target="_blank">SDK tools package</a> (скролим вниз)
+2. Распоковать файл commandlinetools-win-8512546_latest.zip (версия flutter на 05.11.2022) в C:\Android-SDK
 ____
 ## Установка Android
 
