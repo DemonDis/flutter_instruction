@@ -150,11 +150,22 @@ ____
  4. Имя перменной ANDROID_HOME. Значение перменной C:\Android-SDK\cmdline-tools\bin\ (или тот маршрут куда вы положили Android SDK) и жмем ОК и еще раз ОК.
 ____
 
-4. Переходим <a href="https://developer.android.com/studio/releases" target="_blank">releases notes</a>и выбираем необходимые версии программ. Я возьму последние на 05.11.2022.
+4. Переходим <a href="https://developer.android.com/studio/releases" target="_blank">releases notes</a> и выбираем необходимые версии программ. Я возьму последние на 05.11.2022.
 6. Запускаем программу sdkmanager с помощью терминала из папки C:\Android-SDK\cmdline-tools\bin\
  ```
  sdkmanager --sdk_root=sdkRootPath "platforms;android-29" "build-tools;29.0.3" "extras;google;m2repository" "extras;android;m2repository"
+
  ```
+ https://medium.com/@quicky316/install-flutter-sdk-on-windows-without-android-studio-102fdf567ce4
+  ```
+ sdkmanager "system-images;android-27;default;x86_64"
+sdkmanager "platform-tools"
+sdkmanager "build-tools;27.0.3"
+sdkmanager "platforms;android-27"
+sdkmanager emulator
+
+ ```
+ 
 ____
 ## Проверка установленных программ
 
