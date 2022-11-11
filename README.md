@@ -119,12 +119,12 @@ ____
 ____
 ## Локальный Gradle Build Tool
 
-1. Скачиваем <a href="https://services.gradle.org/distributions/" target="_blank">radle Build Tool</a> (скролим вниз до таблицы)
+1. Скачиваем <a href="https://services.gradle.org/distributions/" target="_blank">Gradle Build Tool</a> (скролим вниз до таблицы)
 2. Распоковать файл gradle-7.6-rc-2-all.zip(версия flutter на 05.11.2022) в C:\gradle
 ____
 ## Установка Android
 
-1. Скачиваем <a href="https://developer.android.com/studio" target="_blank">SDK tools package</a> (скролим вниз)
+1. Скачиваем <a href="https://developer.android.com/studio" target="_blank">SDK tools package</a>
 2. Распоковать файл commandlinetools-win-8512546_latest.zip (версия flutter на 05.11.2022) в C:\Android-SDK
 ____
 ## Hello world Flutter
