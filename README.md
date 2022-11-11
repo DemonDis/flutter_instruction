@@ -36,7 +36,8 @@
 5. <a href="https://visualstudio.microsoft.com/ru/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false" target="_blank">Visual Studio</a>
 6. <a href="https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code" target="_blank">Dart для Visual Studio Code</a>
 7. <a href="https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter" target="_blank">Flutter для Visual Studio Code</a>
-8. <a href="https://developer.android.com/studio" target="_blank">SDK tools package (sdkmanager android)</a>
+8. <a href="https://gradle.org/install/" target="_blank">Gradle Build Tool</a>
+9. <a href="https://developer.android.com/studio" target="_blank">SDK tools package (sdkmanager android)</a>
 ____
 
 ## Установка Flutter
