@@ -10,7 +10,7 @@
 1. [Установка Flutter](#Установка-Flutter)
     1. [Flutter SDK](#Flutter-SDK)
     2. [Установка Flutter SDK](#Установка-Flutter-SDK)
-        1. [Переменные среды Windows](#Переменные-среды-Windows)
+        1. [Переменные среды Windows FLUTTER](#Переменные-среды-Windows-FLUTTER)
         2. [Отключаем аналитику](#Отключаем-аналитику)
     3. [Проверка работы flutter](#Проверка-работы-flutter)
 2. [Установка Java](#Установка-Java)
@@ -20,8 +20,9 @@
 5. [Установка пакетов Visual Studio](#Установка-пакетов-Visual-Studio)
 6. [Установка плагинов Visual Studio Code](#Установка-плагинов-Visual-Studio-Code)
 7. [Локальный Gradle Build Tool](#Локальный-Gradle-Build-Tool)
-8. [Установка Android](#Установка-Android)
-9. [Hello world Flutter](#Hello-world-Flutter)
+    1. [Переменные среды Windows GRADLE](#Переменные-среды-Windows-GRADLE)
+9. [Установка Android](#Установка-Android)
+10. [Hello world Flutter](#Hello-world-Flutter)
     1. [Создание-проекта](#Cоздание-проекта)
     2. [Запуск эмулятора Android](#Запуск-эмулятора-Android)
 
@@ -47,7 +48,7 @@ ____
 
  1. Распоковать файл flutter_windows_3.3.7-stable (версия flutter на 05.11.2022) в C:\src\flutter
 ____
-#### Переменные среды Windows
+#### Переменные среды Windows FLUTTER
 
  1. Win + R в появившемся окне "Выполнить" ввести 
  ```
@@ -122,7 +123,7 @@ ____
 1. Скачиваем <a href="https://services.gradle.org/distributions/" target="_blank">Gradle Build Tool</a> (скролим вниз до таблицы)
 2. Распоковать файл gradle-7.6-rc-2-all.zip (версия flutter на 05.11.2022) в C:\gradle
 ____
-#### Переменные среды Windows Gradle
+#### Переменные среды Windows GRADLE
 
  1. Win + R в появившемся окне "Выполнить" ввести 
  ```
