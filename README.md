@@ -17,7 +17,7 @@
     1. [Переменные среды Windows JAVA](#Переменные-среды-Windows-JAVA)
 3. [Установка HAXM](#Установка-HAXM)
 4. [Установка Windows SDK](#Установка-Windows-SDK)
-5. [Установка Visual Studio](#Установка-Visual-Studio)
+5. [Установка пакетов Visual Studio](#Установка-пакетов-Visual-Studio)
 6. [Установка плагинов Visual Studio Code](#Установка-плагинов-Visual-Studio-Code)
 7. [Установка Android](#Установка-Android)
 8. [Hello world Flutter](#Hello-world-Flutter)
@@ -93,15 +93,19 @@ ____
 ____
 ## Установка HAXM
 
-
+1. Скачиваем <a href="https://developer.tizen.org/development/tizen-studio/download/installing-tizen-studio/hardware-accelerated-execution-manager" target="_blank">HAXM</a>
+2. Типовая установка.
 ____
 ## Установка Windows SDK
 
+1. Скачиваем <a href="https://www.oracle.com/java/technologies/downloads/" target="_blank">Windows SDK</a>
+2. Типовая установка.
 
 ____
-## Установка Visual Studio
+## Установка пакетов Visual Studio
 
-
+:boom: Данный путь без уставноки Visual Studio. Только необходимые пакеты. 
+1. Скачавыем <a href="https://learn.microsoft.com/en-us/visualstudio/install/create-an-offline-installation-of-visual-studio?view=vs-2022" target="_blank">Visual Studio 2022 Build Tools</a>
 ____
 ## Установка плагинов Visual Studio Code
 
